@@ -81,6 +81,8 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 ## Installation
 
 ```bash
+## node v14.21.3
+npm install -g yarn
 yarn
 ```
 
